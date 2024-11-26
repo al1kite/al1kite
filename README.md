@@ -9,22 +9,10 @@
 🥇 SK텔레콤 x 하나금융그룹 공동 주최 TECH4GOOD 해커톤 <sub>2024</sub> - 아이디어상 <BR>
 🥇 한이음 ICT 멘토링 공모전 <sub>2024</sub> - 한국정보산업연합회장상 동상 <BR>
 🥇 ‘민관협력 지원 플랫폼 활용’ 기반 사회 현안 해결 ’서비스 개발’ 공모전 <sub>2024</sub> - 오픈플랫폼개발자커뮤니티 이사장상 <BR>
-  
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/al1kite?pet-id=638560054426824546"
-    width="600"
-    height="120"
-  />
-</a>
-
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/al1kite"
-    width="600"
-    height="120"
-  />
+  <img src="https://render.gitanimals.org/lines/al1kite?pet-id=638560054426824546" width="25%" height="120"/>
+  <img src="https://render.gitanimals.org/lines/al1kite" width="25%" height="120"/>
 </a>
-  
+
   
