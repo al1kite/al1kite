@@ -14,6 +14,8 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/al1kite?pet-id=638560054426824546" width="25%" height="120"/>
+  <img src="https://render.gitanimals.org/lines/al1kite?pet-id=742047114313902394" width="25%" height="120"/>
+  <img src="https://render.gitanimals.org/lines/al1kite?pet-id=734764365583809429" width="25%" height="120"/>
   <img src="https://render.gitanimals.org/lines/al1kite" width="25%" height="120"/>
 </a>
 
