@@ -8,6 +8,7 @@
 🏦 하나금융 디지털 파워온 프로젝트 3기 <sub>2024</sub> <BR>
 👩🏻‍💻 SK devocean RAG AI 연구회 스터디  <sub>2025 -</sub> <BR>
 👩🏻‍💻 사이드프로젝트 IT 연합동아리 DDD <sub>2026 -</sub> <BR>
+👩🏻‍💻 KT DS 협력사 개발 인턴 <sub>2026 -</sub> <BR>
 
 ## Awards
 🥇 블록체인 핀테크 경진대회 Best Challenge <sub>2023</sub> - 한국인터넷진흥원장상 <BR>
